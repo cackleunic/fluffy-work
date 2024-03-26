@@ -25,3 +25,4 @@
         sumOfWeightLogWeights = 0;
 
         for (int t = 0; t < T; t++)
+//good
