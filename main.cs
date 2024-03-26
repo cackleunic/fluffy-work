@@ -9,7 +9,7 @@
 
     void Init()
     {
-        wave = new bool[MX * MY][];
+        wave = new bool[MX * MY][];//yes
         compatible = new int[wave.Length][][];
         for (int i = 0; i < wave.Length; i++)
         {
